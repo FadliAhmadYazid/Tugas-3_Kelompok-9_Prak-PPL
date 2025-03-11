@@ -1,4 +1,3 @@
-```markdown
 # Manhwa API
 
 API ini memungkinkan pengguna untuk mengelola daftar manhwa dengan fitur **GET, POST, PUT, dan DELETE** berdasarkan beberapa atribut seperti `title`, `author`, `genre`, `status`, dan `rating`.
@@ -147,4 +146,3 @@ MIT License.
 - Untuk query yang mengandung spasi, gunakan `+` (contoh: `title=Solo+Leveling`).
 
 🎯 **Selamat mencoba! 🚀**
-```
